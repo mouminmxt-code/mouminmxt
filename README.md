@@ -1,15 +1,44 @@
-<h2 align="center">🌐 Connect with me</h2>
+<h1 align="center">Hi 👋, I'm Moumin</h1>
+<h3 align="center">Full Stack Developer 🚀</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 Full Stack Developer
+- 🌱 Always learning new technologies
+- 🔥 Passionate about clean code
+- 🎯 Building modern web applications
+
+---
+
+## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Moumin Mxt" target="_blank">
+  <a href="https://www.linkedin.com/in/ضع-اسمك-هنا">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://facebook.com/mouminmxt" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  
-  <a href="https://instagram.com/mouminmxt" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 </p>
+
+---
+
+## 🛠 Tech Stack
+
+Frontend:
+- HTML
+- CSS
+- JavaScript
+- React
+
+Backend:
+- Node.js
+- Express
+
+Database:
+- MongoDB
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouminmxt-code&show_icons=true)
